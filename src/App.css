@@ -35,3 +35,8 @@
 .input {
   width: 100%;
 }
+
+.taskCompleted {
+  text-decoration: line-through;
+  color: red;
+}
