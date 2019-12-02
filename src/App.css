@@ -40,3 +40,16 @@
   text-decoration: line-through;
   color: red;
 }
+
+.dateInfo {
+  font-weight: bold;
+  color: orange;
+}
+
+.cardAction {
+  justify-content: center;
+}
+
+.link {
+  text-decoration: none;
+}
